@@ -2,3 +2,4 @@ pytest
 flake8
 flake8-builtins
 flake8-isort
+pandas
